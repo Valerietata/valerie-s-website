@@ -1,0 +1,26 @@
+﻿<h1>
+	Applets
+</h1>
+<p>
+	import java.awt.*;
+
+</p>
+<p>
+import java.applet.*;
+</p>
+<p>
+public class Simple extends Applet
+</p>
+<p>
+{ 
+</p>
+<p>
+  public void paint(Graphics g)
+  </p>
+  <p>{</p>
+  <p>g.drawString("A simple Applet", 20, 20);</p>
+    
+<p>}</p>  
+<p>}</p>
+
+<img src="https://static.studytonight.com/java/images/creating-simple-applet.jpg" alt="">

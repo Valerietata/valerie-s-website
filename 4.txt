@@ -1,0 +1,7 @@
+<h1>JavaScript</h1>
+<h2>To find the square root</h2>
+<p>codes</p>
+<img src="images/js1.png" alt="">
+<p>output</p>
+<img src="images/js2.png" alt="">
+

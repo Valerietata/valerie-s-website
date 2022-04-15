@@ -1,0 +1,57 @@
+
+/* Hi, This is supplementary setting for resume page */
+h1 {
+	color: #ff5100;
+}
+.nav h1{
+    color: #d14a35;
+}
+.nav p{
+    color: rgb(250, 244, 236);
+
+}
+/* this is for headers */
+h2 {
+	color: #ff5100;
+}
+
+h3 {
+	color: #ff5100;
+}
+
+.top img{
+    padding-top: 30px;
+    padding-left: 50px;
+    width: 670px;
+}
+.main img{
+padding-left: 20px;
+padding-top: 60px;
+padding-bottom: 60px;
+}
+.nav {
+	display: block;
+	width: 100%;
+	text-align: center;
+	line-height: 45px;
+	background-color: #ff7300;
+	color: #FFFFFF
+}
+.nav ul li.act a {
+	display: block;
+	background-color: #ff5100;
+}
+.main a{
+	color: #ff5100;
+}
+.footer {
+	text-align: center;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	background-color: #ff7300;
+	color: #f9f6f6;
+	font-size: large;
+}
+.nav img{
+    padding-right: 150px;
+}

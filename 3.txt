@@ -1,0 +1,6 @@
+<h1>Action Script</h1>
+
+<img src="https://i.ytimg.com/vi/bkqCwY-BhjI/maxresdefault.jpg" alt="">
+<br>
+
+<a href="https://www.sfu.ca/~tutor/techbytes/Flash/fl2.html">[Click here to learn More]</a>

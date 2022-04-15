@@ -1,0 +1,222 @@
+/* Hi, This is for setting style among all three pages */
+h1 {
+	color: #1e5db0;
+	padding-top: 60px;
+	padding-bottom: 30px;
+}
+
+h2 {
+	color: #1e5db0;
+}
+
+h3 {
+	color: #1e5db0;
+}
+
+p {
+	color: #48525b;
+}
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	padding: 0px;
+	margin: 0px;
+	background-color: #fefefe;
+
+}
+
+a {
+	color: #333333;
+	text-decoration: none
+}
+
+a:hover {
+	color: #e00011
+}
+
+
+
+.top {
+	margin-top: 20px;
+	width: 100%;
+	margin: 0px auto;
+	background-color: #FFFFFF
+}
+.top h1{
+	text-align: center;
+}
+
+
+.nav {
+	display: block;
+	width: 100%;
+	text-align: center;
+	line-height: 45px;
+	background-color: #2377e2;
+	color: #FFFFFF
+}
+/* this is for the top navigator part */
+.nav ul {
+	display: block;
+	padding: 0px;
+	margin: 0px;
+}
+
+.nav ul li {
+	margin-right: 5px;
+	font-size: 18px;
+	display: inline-block;
+}
+
+.nav ul li a {
+	display: block;
+	color: #fff;
+	padding-left: 22px;
+	padding-right: 22px;
+}
+
+.nav ul li a:hover,
+.nav ul li.act a {
+	display: block;
+	background-color: #0a56aa
+}
+
+
+/* this is for the main part of introduction page */
+.main {
+	max-width: 900px;
+	margin: 30px auto;
+	line-height: 1.6
+}
+
+.main p {
+	margin-bottom: 10px;
+}
+
+.main img {
+	max-width: 100%;
+	width: 800px;
+	padding-left: 44px;
+	padding-top: 27px;
+	padding-bottom: 27px;
+
+}
+.main a {
+	color: #0a56aa;
+}
+/* this is for special hr style in index page */
+.hri hr{
+    border-style:dotted none none none;
+    border-width: 6px;
+    border-color:#96bde8;
+	margin-left: 505px;
+	margin-top: 100px;
+	margin-bottom: 100px;
+    width: 25%;
+}
+
+/* this is for text,header and other elements in history page */
+
+.history0{
+	padding-top: 10%;
+	padding-bottom: 10%;
+	display: flex;
+	justify-content: center;
+	margin: 10px;
+}
+
+.history1{
+	padding-top: 3%;
+	padding-bottom: 10%;
+	justify-content: center;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+.history1 h2{
+	text-align: center;
+	margin-bottom: 80px;
+}
+.history1 img{
+padding-left: 150px;
+padding-right: 500px;
+padding-top: 50px;
+padding-bottom: 50px;
+width: 700px;
+
+}
+
+.history1 a{
+	color: #0a56aa;
+
+}
+/* this is for hr tag in history page */
+.hrh{
+	padding-left:1000px ;
+	padding-right: 500px;
+	border-style: dotted none none none;
+	border-width: 5px;
+	border-color:rgb(142, 185, 237);
+	width: 0;
+
+}
+
+
+.contact{ max-width:700px;}
+
+.contact p{
+	margin-bottom: 0px;
+} 
+[type="button"]{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 350px;
+	line-height: 45px;
+	border-style: none;
+	text-align:center;
+	font-size: large;
+	width: 150px;
+	color: #FFFFFF;
+	text-align:center;
+	border-style: none;
+	background-color: #3274cc;
+}
+
+
+.button {
+	
+	line-height: 20px;
+	border-style: none;
+	text-align:center;
+	font-size: large;
+	width: 150px;
+	line-height: 40px;
+	margin-left:280px;
+	margin-top: 30px;
+	background-color: #ff7300;
+	color: #FFFFFF
+}
+
+ul li::marker {
+	color: #1e5db0;
+	content: "◆  ";
+}
+/* this sets the style of the bottom of a page */
+.footer {
+	text-align: center;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	background-color: #2377e2;
+	color: #f9f6f6;
+	font-size: large;
+}
+
+.nav {
+	display: block;
+	width: 100%;
+	text-align: center;
+	line-height: 45px;
+	background-color: #2377e2;
+	color: #FFFFFF
+}
